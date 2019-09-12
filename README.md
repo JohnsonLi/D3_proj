@@ -1,4 +1,5 @@
 # Team Trash
+https://github.com/WilliamLu0211/Trash
 #### - William Lu, Jerry Ye, Ivan Zhang, Johnson Li, Jerry Ye
 
 #### Description of data sets
