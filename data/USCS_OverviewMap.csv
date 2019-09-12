@@ -1,0 +1,51 @@
+Area,CancerType,Year,Sex,AgeAdjustedRate,CaseCount,Population
+Utah,Lung and Bronchus,2011-2015,Male and Female,27.6,3239,14507037
+New Mexico,Lung and Bronchus,2011-2015,Male and Female,40.3,4895,10410085
+Wyoming,Lung and Bronchus,2011-2015,Male and Female,44.6,1442,2897371
+Hawaii,Lung and Bronchus,2011-2015,Male and Female,46.2,3990,7017671
+California,Lung and Bronchus,2011-2015,Male and Female,43.4,84353,191697888
+Colorado,Lung and Bronchus,2011-2015,Male and Female,43.3,11474,26374297
+Montana,Lung and Bronchus,2011-2015,Male and Female,55.7,3645,5072271
+Texas,Lung and Bronchus,2011-2015,Male and Female,53.1,65699,132565959
+Nevada,Lung and Bronchus,2011-2015,Male and Female,56,8502,13974179
+Idaho,Lung and Bronchus,2011-2015,Male and Female,50.7,4488,8078425
+Arizona,Lung and Bronchus,2011-2015,Male and Female,49.3,19514,33178972
+Oregon,Lung and Bronchus,2011-2015,Male and Female,56.2,13468,19685903
+Minnesota,Lung and Bronchus,2011-2015,Male and Female,55.2,17014,27082912
+Iowa,Lung and Bronchus,2011-2015,Male and Female,63.6,12126,15463490
+Kansas,Lung and Bronchus,2011-2015,Male and Female,60.9,9957,14453667
+Wisconsin,Lung and Bronchus,2011-2015,Male and Female,60,20664,28704939
+South Dakota,Lung and Bronchus,2011-2015,Male and Female,58.1,2921,4214241
+Nebraska,Lung and Bronchus,2011-2015,Male and Female,59,6258,9341477
+Vermont,Lung and Bronchus,2011-2015,Male and Female,63.4,2611,3133386
+Virginia,Lung and Bronchus,2011-2015,Male and Female,58.9,26655,41249734
+New Jersey,Lung and Bronchus,2011-2015,Male and Female,57.4,29708,44474038
+Washington,Lung and Bronchus,2011-2015,Male and Female,56.7,21688,34900238
+Alaska,Lung and Bronchus,2011-2015,Male and Female,57.2,1708,3665095
+New York,Lung and Bronchus,2011-2015,Male and Female,60.2,68692,98261542
+Maryland,Lung and Bronchus,2011-2015,Male and Female,57.4,18766,29626661
+North Dakota,Lung and Bronchus,2011-2015,Male and Female,58.2,2400,3608321
+Massachusetts,Lung and Bronchus,2011-2015,Male and Female,63.8,25239,33510868
+Connecticut,Lung and Bronchus,2011-2015,Male and Female,61,13309,17956294
+Florida,Lung and Bronchus,2011-2015,Male and Female,59.7,82748,98156785
+Indiana,Lung and Bronchus,2011-2015,Male and Female,72.8,27110,32831326
+West Virginia,Lung and Bronchus,2011-2015,Male and Female,80.3,10195,9254330
+Mississippi,Lung and Bronchus,2011-2015,Male and Female,75,12771,14935379
+Missouri,Lung and Bronchus,2011-2015,Male and Female,74.2,27017,30215977
+South Carolina,Lung and Bronchus,2011-2015,Male and Female,66.9,19478,23884555
+Tennessee,Lung and Bronchus,2011-2015,Male and Female,75.8,29226,32486480
+New Hampshire,Lung and Bronchus,2011-2015,Male and Female,65.7,5423,6621196
+Arkansas,Lung and Bronchus,2011-2015,Male and Female,78,14088,14793606
+Illinois,Lung and Bronchus,2011-2015,Male and Female,66,47013,64316906
+Alabama,Lung and Bronchus,2011-2015,Male and Female,67.8,19835,24142446
+Kentucky,Lung and Bronchus,2011-2015,Male and Female,93.5,24288,21992298
+North Carolina,Lung and Bronchus,2011-2015,Male and Female,69.2,39351,49208313
+Louisiana,Lung and Bronchus,2011-2015,Male and Female,68.8,17577,23122075
+Maine,Lung and Bronchus,2011-2015,Male and Female,72.5,6722,6646374
+Ohio,Lung and Bronchus,2011-2015,Male and Female,69.3,48969,57865183
+Oklahoma,Lung and Bronchus,2011-2015,Male and Female,70.5,15556,19240656
+Michigan,Lung and Bronchus,2011-2015,Male and Female,65.6,39511,49495915
+Pennsylvania,Lung and Bronchus,2011-2015,Male and Female,64.7,53600,63879954
+Rhode Island,Lung and Bronchus,2011-2015,Male and Female,69.7,4516,5268472
+Delaware,Lung and Bronchus,2011-2015,Male and Female,71.2,4111,4629336
+Georgia,Lung and Bronchus,2011-2015,Male and Female,64.9,32626,49997845

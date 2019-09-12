@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <!-- <link rel="stylesheet" href="../static/style.css"> -->
+    <title>Document</title>
+</head>
+<body>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col">
+        <br>
+        <h1>Traffic vs. Air Quality</h1>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col" align="center">
+        <button type="button" class="btn btn-secondary" id="cd">Car Density</button>
+        <button type="button" class="btn btn-secondary" id="lcr">Lung Cancer Rate</button>
+      </div>
+    </div>
+    <br>
+    <div class="row">
+      <div class="col" id="map" align="center"></div>
+    </div>
+    <center> <em> &copy; Copyright 2019 by Trash </em> </center>
+  </div>
+    <p hidden id='data'>This paragraph should be hidden.</p>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://d3js.org/topojson.v2.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.js"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename='colorbrewer.js') }}"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename='display.js') }}"></script>
+  <!-- <script type="text/javascript" src="../static/core.js"></script>
+  <script type="text/javascript" src="../static/colorbrewer.js"></script> -->
+
+  <!-- <script src="parse.js"></script> -->
+
+</body>
+</html>
